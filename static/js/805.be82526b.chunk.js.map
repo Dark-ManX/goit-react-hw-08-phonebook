@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/805.be82526b.chunk.js","mappings":"2JAOA,UAPiB,WAEb,OACI,iDAEP,C","sources":["pages/NotFound.jsx"],"sourcesContent":["const NotFound = () => {\r\n\r\n    return (\r\n        <p>Sorry! Unknown address</p>\r\n    )\r\n}\r\n\r\nexport default NotFound;"],"names":[],"sourceRoot":""}
