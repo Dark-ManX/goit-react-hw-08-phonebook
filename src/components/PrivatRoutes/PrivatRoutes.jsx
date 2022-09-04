@@ -6,7 +6,7 @@ const PrivateRoutes = () => {
     const { isLoggedIn } = useSelector((state) => state.auth);
 
     return (
-        isLoggedIn ? <Outlet/> : <Navigate to='/login' replace/>
+        isLoggedIn ? <Outlet/> : <Navigate to='/contacts' replace/>
     )
 }
 export default PrivateRoutes;
